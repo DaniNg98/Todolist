@@ -1,0 +1,23 @@
+#container {
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.header {
+    padding-bottom: 20px;
+}
+
+#inputField {
+    margin-bottom: 10px;
+}
+
+#deleteButton {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
